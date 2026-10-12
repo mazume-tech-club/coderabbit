@@ -1,0 +1,5 @@
+# coderabbit/.coderabbit.yaml
+# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
+language: "ja-JP"
+reviews:
+  profile: "chill"
